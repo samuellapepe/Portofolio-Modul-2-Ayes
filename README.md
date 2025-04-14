@@ -54,6 +54,7 @@ Analisis review pengguna aplikasi Gojek menggunakan teknik **Natural Language Pr
 
 ## 📎 **Link Terkait**
 * Google BigQuery dapat dilihat [disini.](https://console.cloud.google.com/bigquery?invt=Abut5g&project=portofolio-module-2&supportedpurview=project&ws=!1m5!1m4!4m3!1sportofolio-module-2!2sehehe!3sgojek_review_app)
+* File `gojek_app_review.csv` dapat didownload [disini.](https://drive.google.com/file/d/1xtf8MtCXK-CpZqqVpTrEmB_xvGI0H0LF/view?usp=sharing)
 
 ## **Lisensi**
 Portofolio ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
