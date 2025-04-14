@@ -1,4 +1,4 @@
-## 🚀 **Gojek App Review Analysis with NLP**
+# 🚀 **Gojek App Review Analysis with NLP**
 
 Analisis review pengguna aplikasi Gojek menggunakan teknik **Natural Language Processing (NLP)** untuk memahami persepsi dan sentimen pelanggan terhadap aplikasi Gojek. Proyek ini merupakan bagian dari pembelajaran portofolio data science.
 
@@ -47,12 +47,12 @@ Analisis review pengguna aplikasi Gojek menggunakan teknik **Natural Language Pr
 6. **Google BigQuery**
    * Mengupload data ke Google BigQuery
 
-## 📁 Struktur File
+## 📁 **Struktur File**
 
 * `Portofolio Module 2 - Ayes.ipynb` : Notebook utama yang berisi seluruh proses analisis.
 * `gojek_app_review.csv` : Dataset berisi review pengguna aplikasi Gojek.
 
-📎 Link Terkait
+## 📎 **Link Terkait**
 * Google BigQuery dapat dilihat [disini.](https://console.cloud.google.com/bigquery?invt=Abut5g&project=portofolio-module-2&supportedpurview=project&ws=!1m5!1m4!4m3!1sportofolio-module-2!2sehehe!3sgojek_review_app)
 
 ## **Lisensi**
