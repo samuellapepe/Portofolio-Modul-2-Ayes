@@ -50,7 +50,7 @@ Analisis review pengguna aplikasi Gojek menggunakan teknik **Natural Language Pr
 * `gojek_reviews.csv` : Dataset berisi review pengguna aplikasi Gojek.
 
 📎 Link Terkait
-* Google BigQuery dapat dilihat [disini.]([https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://console.cloud.google.com/bigquery?invt=Abut5g&project=portofolio-module-2&supportedpurview=project&ws=!1m5!1m4!4m3!1sportofolio-module-2!2sehehe!3sgojek_review_app))
+* Google BigQuery dapat dilihat [disini.](https://console.cloud.google.com/bigquery?invt=Abut5g&project=portofolio-module-2&supportedpurview=project&ws=!1m5!1m4!4m3!1sportofolio-module-2!2sehehe!3sgojek_review_app)
 
 ## **Lisensi**
 Portofolio ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
